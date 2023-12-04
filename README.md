@@ -3,7 +3,7 @@
   <img alt="Portfólio" src="./public/logo512.png" width="30px"> <b>Dogs</b>
   <br><br>
 </h1>
-<p align="center">Uma rede social para compartilhar fotos do seu pet :heart: </p><br>
+<p align="center">Uma rede social para compartilhar fotos do seu pet ❤️ </p><br>
 </div>
 
 <p align="center">
